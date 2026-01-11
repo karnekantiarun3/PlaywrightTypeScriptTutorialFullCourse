@@ -27,6 +27,7 @@
     "exceljs": "^4.4.0",
     "fast-xml-parser": "^5.3.3",
     "mammoth": "^1.11.0",
+    "pdfjs-dist": "^5.4.530",
     "xlsx": "^0.18.5"
   }
 }
